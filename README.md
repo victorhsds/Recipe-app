@@ -1,4 +1,4 @@
-# Aplicação de viagens utilizando Next.js | Typescript | React | Tailwind CSS
+# Aplicação de receitas culinárias utilizando Next.js | Typescript | React 
 
 ## Tecnologias:
 
